@@ -1,0 +1,13 @@
+C:\Users\awatts4\source\repos\Week5\RPGLab\bin\Debug\netcoreapp3.1\RPGLab.exe
+C:\Users\awatts4\source\repos\Week5\RPGLab\bin\Debug\netcoreapp3.1\RPGLab.deps.json
+C:\Users\awatts4\source\repos\Week5\RPGLab\bin\Debug\netcoreapp3.1\RPGLab.runtimeconfig.json
+C:\Users\awatts4\source\repos\Week5\RPGLab\bin\Debug\netcoreapp3.1\RPGLab.runtimeconfig.dev.json
+C:\Users\awatts4\source\repos\Week5\RPGLab\bin\Debug\netcoreapp3.1\RPGLab.dll
+C:\Users\awatts4\source\repos\Week5\RPGLab\bin\Debug\netcoreapp3.1\RPGLab.pdb
+C:\Users\awatts4\source\repos\Week5\RPGLab\obj\Debug\netcoreapp3.1\RPGLab.csproj.AssemblyReference.cache
+C:\Users\awatts4\source\repos\Week5\RPGLab\obj\Debug\netcoreapp3.1\RPGLab.AssemblyInfoInputs.cache
+C:\Users\awatts4\source\repos\Week5\RPGLab\obj\Debug\netcoreapp3.1\RPGLab.AssemblyInfo.cs
+C:\Users\awatts4\source\repos\Week5\RPGLab\obj\Debug\netcoreapp3.1\RPGLab.csproj.CoreCompileInputs.cache
+C:\Users\awatts4\source\repos\Week5\RPGLab\obj\Debug\netcoreapp3.1\RPGLab.dll
+C:\Users\awatts4\source\repos\Week5\RPGLab\obj\Debug\netcoreapp3.1\RPGLab.pdb
+C:\Users\awatts4\source\repos\Week5\RPGLab\obj\Debug\netcoreapp3.1\RPGLab.genruntimeconfig.cache

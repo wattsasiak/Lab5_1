@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l2HIPZHsQNtg4SezSMl+GbmlhdpgLj0xG6zyZYlCh7QcSij3RMtGudJ/kozGqJwFj1DVYXC4nvdNfBETlFweSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\awatts4\\source\\repos\\Week5\\RPGLab\\RPGLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\awatts4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
