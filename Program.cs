@@ -15,13 +15,16 @@ namespace RPGLab
             Console.WriteLine($"Character Name: {name}, Strength : {strength}, Intelligence : {intelligence}.");
         }
 
-        //public GameCharacter(string name, int strength, int intelligence)
-        //{
-        //    this.name = name;
-        //    this.strength = strength;
-        //    this.intelligence = intelligence;
-        //}
-      
+        public GameCharacter()
+        {
+            name = "";
+            strength = 0;
+            intelligence = 0;
+        }
+
+        
+
+
     }
 
 
@@ -33,13 +36,18 @@ namespace RPGLab
             Console.WriteLine($"Character Name: {name}, Strength : {strength}, Intelligence : {intelligence}, Weapon Type: {WeaponType}.");
         }
 
-        //public Warrior(string name, int strength, int intelligence, string WeaponType)
-        //{
-        //    this.name = name;
-        //    this.strength = strength;
-        //    this.intelligence = intelligence;
-        //    this.WeaponType = WeaponType;
-        //}
+
+        public Warrior()
+        {
+            name = "";
+            strength = 0;
+            intelligence = 0;
+            WeaponType = "";
+        }
+
+
+
+      
     }
 
     class MagicUsingCharacter : GameCharacter
@@ -54,13 +62,15 @@ namespace RPGLab
 
 
 
-        //public MagicUsingCharacter(string name, int strength, int intelligence, int MagicalEnergy)
-        //{
-        //    this.name = name;
-        //    this.strength = stength;
-        //    this.intelligence = intelligence;
-        //    this.MagicalEnergy = MagicalEnergy;
-        //}
+        public MagicUsingCharacter()
+        {
+            name = "";
+            strength = 0;
+            intelligence = 0;
+            MagicalEnergy = 0;
+        }
+
+       
 
 
     }
@@ -76,15 +86,16 @@ namespace RPGLab
         }
 
 
-        //public Wizard(string name, int strength, int intelligence, int MagicalEnergy, int SpellNumber)
-        //{
-        //    this.name = name;
-        //    this.strength = strength;
-        //    this.intelligence = intelligence;
-        //    this.MagicalEnergy = MagicalEnergy;
-        //    this.SpellNumber = SpellNumber;
 
-        //}
+        public Wizard()
+        {
+            name = "";
+            strength = 0;
+            intelligence = 0;
+            MagicalEnergy = 0;
+            SpellNumber = 0;
+        }
+       
 
 
 
@@ -146,9 +157,9 @@ namespace RPGLab
             //Console.WriteLine(Wizard3);
 
             List<GameCharacter> gameCharacters = new List<GameCharacter>();
-            foreach (GameCharacter item in gameCharacters)
+            foreach (GameCharacter character in gameCharacters)
             {
-                item.Play();
+                character.Play();
             }
             
         }
