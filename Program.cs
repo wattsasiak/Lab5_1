@@ -157,11 +157,19 @@ namespace RPGLab
             //Console.WriteLine(Wizard3);
 
             List<GameCharacter> gameCharacters = new List<GameCharacter>();
+
+            //gameCharacters.Add(Warrior1);
+            //gameCharacters.Add(Warrior2);
+            //gameCharacters.Add(Wizard1);
+            //gameCharacters.Add(Wizard2);
+            //gameCharacters.Add(Wizard3);
+
+
             foreach (GameCharacter character in gameCharacters)
             {
                 character.Play();
             }
-            
+
         }
     }
 }
